@@ -19,6 +19,19 @@ To transform customer, subscription, churn, support, and product-usage data into
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### Customer & Churn Analysis
+![Customer & Churn Analysis](Customer_Churn_Analysis.png)
+
+### Product Usage & Retention
+![Product Usage & Retention](Product_Usage_Retention.png)
+
+---
+
 ## 💡 Why I Built This Project
 
 I built this project to demonstrate how **data analytics can translate raw business data into actionable insights**.
